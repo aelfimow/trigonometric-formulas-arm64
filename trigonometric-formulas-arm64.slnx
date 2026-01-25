@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="formulas/formula-001-fp32/formula-001-fp32.vcxproj" />
+  <Project Path="trigonometric-formulas-arm64.vcxproj" />
+</Solution>
