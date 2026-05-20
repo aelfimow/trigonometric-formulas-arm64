@@ -13,5 +13,6 @@
   <Project Path="formulas/formula-003-fp32/formula-003-fp32.vcxproj" Id="a4091f07-a003-48ec-8b82-e9a029fdab64" />
   <Project Path="formulas/formula-003-fp64/formula-003-fp64.vcxproj" Id="44f3fae7-f779-49d8-840c-661d4f723986" />
   <Project Path="formulas/formula-003-fp80/formula-003-fp80.vcxproj" Id="7989569d-eb51-4f5b-9950-12ea61219602" />
+  <Project Path="formulas/formula-004-fp32/formula-004-fp32.vcxproj" Id="82c8c2a1-2475-400b-972c-dd69b1a5ccb8" />
   <Project Path="trigonometric-formulas-arm64.vcxproj" Id="70c5f4cd-bfe8-4273-b9a8-9929acf31d04" />
 </Solution>
