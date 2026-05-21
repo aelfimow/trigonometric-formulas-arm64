@@ -19,5 +19,8 @@
   <Project Path="formulas/formula-005-fp32/formula-005-fp32.vcxproj" Id="37779950-00fe-4702-97b8-4eebde081149" />
   <Project Path="formulas/formula-005-fp64/formula-005-fp64.vcxproj" Id="274ec356-ab3d-44ac-9779-ebcde7f3f7a3" />
   <Project Path="formulas/formula-005-fp80/formula-005-fp80.vcxproj" Id="d8d12342-3729-4a79-9b05-a126875e859a" />
+  <Project Path="formulas/formula-006-fp32/formula-006-fp32.vcxproj" Id="052c0b92-0d6b-468b-8bfa-3298a8cd3a6c" />
+  <Project Path="formulas/formula-006-fp64/formula-006-fp64.vcxproj" Id="9ae03b1c-8baa-466d-ad69-3549c80146ee" />
+  <Project Path="formulas/formula-006-fp80/formula-006-fp80.vcxproj" Id="c5ae3641-a0b4-41c6-a172-f39b6fa161ba" />
   <Project Path="trigonometric-formulas-arm64.vcxproj" Id="70c5f4cd-bfe8-4273-b9a8-9929acf31d04" />
 </Solution>
