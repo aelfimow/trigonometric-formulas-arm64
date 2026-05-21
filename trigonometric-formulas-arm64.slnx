@@ -25,5 +25,4 @@
   <Project Path="formulas/formula-007-fp32/formula-007-fp32.vcxproj" Id="5c1aa55d-c8f3-4c78-bdec-70b396c78bb7" />
   <Project Path="formulas/formula-007-fp64/formula-007-fp64.vcxproj" Id="ec067e6a-626c-4dd4-958c-0e10ec81284d" />
   <Project Path="formulas/formula-007-fp80/formula-007-fp80.vcxproj" Id="bc274a1a-0fa7-48a2-bedc-bdd46b335cfe" />
-  <Project Path="trigonometric-formulas-arm64.vcxproj" Id="70c5f4cd-bfe8-4273-b9a8-9929acf31d04" />
 </Solution>
