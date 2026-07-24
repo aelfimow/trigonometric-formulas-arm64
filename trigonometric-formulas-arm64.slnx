@@ -46,4 +46,7 @@
   <Project Path="formulas/formula-014-fp32/formula-014-fp32.vcxproj" Id="df895fa5-f58c-475b-9351-73c2be102906" />
   <Project Path="formulas/formula-014-fp64/formula-014-fp64.vcxproj" Id="c4c992b4-0ae7-4c7f-9291-03e329295f70" />
   <Project Path="formulas/formula-014-fp80/formula-014-fp80.vcxproj" Id="35f177db-918e-4c0b-bea8-041114d7217b" />
+  <Project Path="formulas/formula-015-fp32/formula-015-fp32.vcxproj" Id="fc8d1aed-8eb3-4b49-a0ab-e684fe5b247d" />
+  <Project Path="formulas/formula-015-fp64/formula-015-fp64.vcxproj" Id="164df32a-d5e8-4641-9951-76028ccf1806" />
+  <Project Path="formulas/formula-015-fp80/formula-015-fp80.vcxproj" Id="0a4eb80b-8ede-4993-8a9e-875bef0e2c44" />
 </Solution>
